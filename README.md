@@ -4,6 +4,10 @@
 - **Có thể tắt mic và cam**
 - **Theo dõi được số lượng người trong phòng**
 - **Số lượng tối đa 50 người 1 phòng**
+# Công nghệ và các thư viện sử dụng
+- **ReactNative**
+- **ReduxToolkit**
+- **ZegoCloud**
 # Link Download App
 https://drive.google.com/file/d/1HKgh9C9qab4cNhR_gOBBNi9t8k3o45hU/view?usp=share_link
 # Một số hình ảnh của ứng dụng
